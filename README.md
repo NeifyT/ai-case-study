@@ -21,7 +21,7 @@ It was in a job interview in 1999 that I was asked if I could program storybook 
 
 My thoughts processed the question, the ambiguity, and the realization that I could not, nor could anyone in the world that day, program the first scenario. Speech recognition was in its infancy. Commercially available speech-to-text software such as *Dragon Naturally Speaking* had to be ‘trained’ on an individual basis by having the end user read pre-prepared text; thus, it certainly could not recognize a non-reader.
 
-Upon clarification of the ambiguity, the potential employer was okay with having the program read to the child, and then the child would read to a living teacher, tutor, or parent who would also conduct oral comprehension tests after each story. The computer would be an assistant only in the teaching process. That was something I could do easily, and I got the job. However, I wished then and since that I, or anyone else, could someday create such a program as the first scenario. Well, hello, [Ello](https://www.helloello.com/)—you’ve made my wish come true!
+Upon clarification of the ambiguity, the potential employer was okay with having the program read to the child, and then the child would read to a live teacher, tutor, or parent who would also conduct oral comprehension tests after each story. The computer would be an assistant only in the teaching process. That was something I could do easily, and I got the job. However, I wished then and since that I, or anyone else, could someday create such a program as the first scenario. Well, hello, [Ello](https://www.helloello.com/)—you’ve made my wish come true!
 
 ## The Landscape of Education
 
@@ -57,7 +57,7 @@ An example of a well-designed computer program for teaching reading and spelling
 
 [^6]: ECRI catalog page 30: https://www.ecri.cc/catalog/Media.pdf
 
-The KRS program was developed through research, proven effective with studies, and even validated by the U.S. Department of Education as effective for students in grades one through six. Yet, most off-the-shelf software marketed toward children does not have such credentials. Most are not effective. However, with AI rapidly changing every aspect of life, the field of education is being significantly impacted, for good or ill. Let us look at one early reading program, the “Read with Ello” project.
+The KRS program was developed through research, proven effective with studies, and even validated by the U.S. Department of Education as effective for students in grades one through six. Yet, most off-the-shelf programs marketed toward children don’t have such credentials. Most are not effective. However, with AI rapidly changing every aspect of life, the field of education is being significantly impacted, for good or ill. Let us look at one early reading program, the “Read with Ello” project.
 
 ## Origin and Overview of Ello
 
@@ -107,7 +107,7 @@ With a goal to start by building an AI reading coach whereby children would read
 
 [^20]: McPike, L. (1995 Summer) *American Educator*. Found in “Beginning Reading Instruction.” *Where We Stand: K-12 Literacy*, p. 3. https://www.aft.org/sites/default/files/wwsk12literacy0407.pdf
 
-However, a recent NAEP (2021) study found that “About 27 percent of White, 51 percent of Black, and 46 percent of Hispanic fourth-graders fell into the below NAEP Basic group. Black students were also overrepresented in the below NAEP Basic Low subgroup.”[^21]
+However, a recently published NAEP (2021) study found that “About 27 percent of White, 51 percent of Black, and 46 percent of Hispanic fourth-graders fell into the below NAEP Basic group. Black students were also overrepresented in the below NAEP Basic Low subgroup.”[^21]
 
 [^21]: The 2018 NAEP Oral Reading Fluency Study, US Department of Education, NCES 2021-025, https://nces.ed.gov/nationsreportcard/subject/studies/orf/2021025_orf_study.pdf.
 
@@ -155,7 +155,7 @@ Part of the phenomenal team Ello has assembled includes AI researchers and devel
 
 [^31]: Kim, K. (et al.). (2020) “Active world model learning with progress curiosity.” Proceedings of the 37th International Conference on Machine Learning, 2020;119:5306-15. https://proceedings.mlr.press/v119/kim20e.html
 
-- Catalin Voss and Nick Haber (along with 13 others) studied the potential use of AI models in the diagnostic evaluation of children with autism. Diagnosing autism can be challenging because the symptoms are heterogeneous and multidimensional. While the Diagnostic and *Statistical Manual of Mental Disorders (DSM)* provides for clinical diagnosis, it relies primarily on the behavioral symptoms of the child. With the collection of digital data and the use of machine learning, the rapid classification of medical conditions becomes possible. Therefore, their research reviewed “traditional diagnostic instruments, data-driven feature selection methods, digital questionnaire capture, computer vision approaches, eye tracking approaches, crowdsourcing, and digital interventions used for longitudinal outcome measure tracking.”[^32]
+- Catalin Voss and Nick Haber (along with 13 others) studied the potential use of AI models in the diagnostic evaluation of children with autism. Diagnosing autism can be challenging because the symptoms are heterogeneous and multidimensional. While the *Diagnostic and Statistical Manual of Mental Disorders (DSM)* provides for clinical diagnosis, it relies primarily on the behavioral symptoms of the child. With the collection of digital data and the use of machine learning, the rapid classification of medical conditions becomes possible. Therefore, their research reviewed “traditional diagnostic instruments, data-driven feature selection methods, digital questionnaire capture, computer vision approaches, eye tracking approaches, crowdsourcing, and digital interventions used for longitudinal outcome measure tracking.”[^32]
 
 [^32]: Washington, P. (et al.), (2020, August). “Data-Driven Diagnostics and the Potential of Mobile Artificial Intelligence for Digital Therapeutic Phenotyping in Computational Psychiatry.” *Biological Psychiatry: Cognitive Neuroscience, 5*(8), 759-769. https://doi.org/10.1016/j.bpsc.2019.11.015
 
@@ -169,7 +169,7 @@ With this prior research from the assembled team, they had the ability to focus 
 
 [^34]: https://www.ello.com/
 
-The engineering into their proprietary AI speech recognition is the heart of their product and, thus, the subject of their patent discussed later. The next step is understanding the child as the child’s progresses. The AI teacher would map the cognitive state of the child, building a granular picture throughout every stage of the learning process. In order to engage learners, the AI teacher would be interactive and personalized. This would also be done with large language models that would produce content unique to the interests of each child. The end result would be a learning companion that focuses on the child, not the technology.[^35]
+The engineering into their proprietary AI speech recognition is the heart of their product and, thus, the subject of their patent discussed later. The next step is understanding the child as the child progresses. The AI teacher would map the cognitive state of the child, building a granular picture throughout every stage of the learning process. In order to engage learners, the AI teacher would be interactive and personalized. This would also be done with large language models that would produce content unique to the interests of each child. The end result would be a learning companion that focuses on the child, not the technology.[^35]
 
 [^35]: Ibid.
 
@@ -183,7 +183,7 @@ The patent outlines a novel technique that is able to identify a reader’s posi
 
 [^37]: Ibid. – Detailed Description [0049]
 
-An example of this process is provided in Figure 1, where we see that they start with receiving audio data (of the child reading), they identify the target data (the story text), and they determine the alignment between the child reading and the story text. Output is then generated based on the determined alignment, wherein additional audio input may be solicited. Thus, they can continuously track the speech of the reader.
+An example of this process is provided in Figure 1, where we see that they start with receiving audio data (of the child reading), they identify the target data (the story text), and they determine the alignment between the child reading and the story text. Output is then generated based on the determined alignment, wherein additional audio input may continue. Thus, they can continuously track the speech of the reader.
 
 ![FIG. 1: An example of a process for validating speech in accordance with an embodiment of the invention.](patent.png)[^38]
 
@@ -249,7 +249,7 @@ So I come back to Ello with hope. Yet, upon deep inspection, I find my wishing m
 
 ## A Big “Oh No!”
 
-It is appalling when an organization’s co-founder tacitly, although perhaps accidentally, admits that their product (in Monty Python parlance) smells of elderberries. Dr. Elizabeth Adams is quoted in TechCrucnh as saying:
+It is appalling when an organization’s co-founder tacitly, although perhaps accidentally, admits that their product (in Monty Python parlance) smells of elderberries. Dr. Elizabeth Adams is quoted in TechCrunch as saying:
 
 > “Ello doesn’t test for comprehension. We’re really focused on engagement and the child’s love for reading and growing that confidence… We give children an experience that is based on learning, but also delightful and doesn’t feel like a test.”[^53]
 
@@ -267,7 +267,7 @@ A product that does not teach nor test for comprehension cannot ensure children 
 
 It is understandable to want to engage children in reading. Making it a fun thing will instill in them a love of reading. But comprehension should be included, and not just what is written in the story but much more. There are multiple levels of comprehension, which are all important. Dr. Reid identified four main comprehension levels:[^55]
 
-[^55]:  Reid, E. R. (2010). *Teaching Comprehension (Literal, Interpretative, Critical, and Creative)*. Salt Lake City, Utah: Exemplary Center for Reading Instruction.
+[^55]:  Reid, Dr., E. R. (2010). *Teaching Comprehension (Literal, Interpretative, Critical, and Creative)*. Salt Lake City, Utah: Exemplary Center for Reading Instruction.
 
 - Literal: understanding the details that are actually written, such as the character’s name, appearance, background, age, race, etc.
 
